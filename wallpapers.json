@@ -1,14 +1,14 @@
 [
 	{
 		"name": "My wallpaper",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"url": "https://images4.alphacoders.com/561/thumb-1920-561517.jpg",
+		"thumbnail": "https://images4.alphacoders.com/561/thumb-350-561517.jpg",
 		"downloadable": true,
 	},
 	{
 		"name": "My other wallpaper",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"url": "https://images8.alphacoders.com/596/thumb-1920-596859.jpg",
+		"thumbnail": "https://images8.alphacoders.com/596/thumb-350-596859.jpg",
 		"downloadable": true,
 	}
 ]
