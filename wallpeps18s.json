@@ -17,7 +17,7 @@
     },
     {
       "author": "Someone 1",
-      "url": "https://initiate.alphacoders.com/images/526/cropped-1080-1920-526888.jpg?5325",
+      "url": "https://images8.alphacoders.com/545/thumb-1920-545909.jpg",
       "name": "ShotC",
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
@@ -25,22 +25,21 @@
     },
     {
       "name": "someone 2 1",
-      "url": "https://initiate.alphacoders.com/images/526/cropped-1280-1024-526888.jpg?6560",
+      "url": "https://images.alphacoders.com/545/545918.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,landscapes,people,city"
     },
     {
       "name": "Wallsplash 4",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "url": "https://images8.alphacoders.com/546/546902.jpg",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,food,people"
     },
     {
       "name": "Wallsplash 4",
       "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+      "url": "https://images2.alphacoders.com/596/thumb-350-596883.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "landscapes,people,city"
@@ -48,8 +47,7 @@
     {
       "name": "Wallsplash 5",
       "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+      "url": "https://images8.alphacoders.com/545/thumb-350-545905.jpg",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
       "collections": "featured,landscapes"
