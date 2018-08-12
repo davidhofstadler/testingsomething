@@ -1,57 +1,69 @@
 [
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/730/730555.png",
+		"name": "Wallpaper 1",
+		"thumbnail": "https://mfiles.alphacoders.com/738/thumb-738608.jpg",
+		"url": "https://mfiles.alphacoders.com/738/738608.jpg",
+		"downloadable": true
+		
+	},
+	{
+		"name": "Wallpaper 2",
+		"thumbnail": "https://mfiles.alphacoders.com/738/thumb-738497.jpg",
+		"url": "https://mfiles.alphacoders.com/738/738497.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/734/734440.png",
+		"name": "Wallpaper 3",
+		"thumbnail": "https://mfiles.alphacoders.com/737/thumb-737852.jpg",
+		"url": "https://mfiles.alphacoders.com/737/737852.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/730/730188.jpg",
+		"name": "Wallpaper 4",
+		"thumbnail": "https://mfiles.alphacoders.com/737/thumb-737821.jpg",
+		"url": "https://mfiles.alphacoders.com/737/737821.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/727/727113.jpg",
+		"name": "Wallpaper 5",
+		"thumbnail": "https://mfiles.alphacoders.com/737/thumb-737820.jpg",
+		"url": "https://mfiles.alphacoders.com/737/737820.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/729/729616.jpg",
+		"name": "Wallpaper 6",
+		"thumbnail": "https://mfiles.alphacoders.com/735/thumb-735358.jpg",
+		"url": "https://mfiles.alphacoders.com/735/735358.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/728/728481.jpg",
+		"name": "Wallpaper 7",
+		"thumbnail": "https://mfiles.alphacoders.com/734/thumb-734104.jpg",
+		"url": "https://mfiles.alphacoders.com/734/734104.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/727/727156.jpg",
+		"name": "Wallpaper 8",
+		"thumbnail": "https://mfiles.alphacoders.com/733/thumb-733907.jpg",
+		"url": "https://mfiles.alphacoders.com/733/733907.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/727/727127.jpg",
+		"name": "Wallpaper 9",
+		"thumbnail": "https://mfiles.alphacoders.com/733/thumb-733209.jpg",
+		"url": "https://mfiles.alphacoders.com/733/733209.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/727/727419.jpg",
+		"name": "Wallpaper 10",
+		"thumbnail": "https://mfiles.alphacoders.com/733/thumb-733209.jpg",
+		"url": "https://mfiles.alphacoders.com/733/733209.jpg",
 		"downloadable": true
 	},
 	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/721/721627.png",
-		"downloadable": true
-	},
-	{
-		"name": "Tokyo Ghoul",
-		"url": "https://mfiles.alphacoders.com/718/718889.jpg",
+		"name": "Wallpaper 11",
+		"thumbnail": "https://mfiles.alphacoders.com/733/thumb-733209.jpg",
+		"url": "https://mfiles.alphacoders.com/733/733209.jpg",
 		"downloadable": true
 	}
 ]
