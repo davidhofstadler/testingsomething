@@ -1,52 +1,20 @@
-{
-  "Collections": [
+[
     {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    },
-    {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    }
-  ],
-  "Wallpapers": [
-    {
-      "name": "ShotA",
-      "author": "Someone",
+      "name": " ",
       "url": "https://mfiles.alphacoders.com/730/730555.png",
-      "collections": "featured,landscapes,people",
-      "downloadable": false
+      "downloadable": true
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
+      "name": " ",
       "url": "https://mfiles.alphacoders.com/734/734440.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "downloadable": true
     },
     {
-      "author": "Someone",
       "url": "https://mfiles.alphacoders.com/730/730188.jpg",
       "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
     },
     {
-      "name": "Wallsplash 1",
+      "name": " ",
       "author": "wallsplash",
       "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
@@ -117,5 +85,5 @@
       "copyright": "Free (do whatever you want)",
       "collections": "food"
     }
-  ]
-}
+]
+
